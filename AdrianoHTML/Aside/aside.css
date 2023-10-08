@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: lightsalmon;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+.linhas{
+    display: flex;
+
+}
+.column{
+    padding: 15px;
+}
+.column-side{
+    flex: 1;
+}
+.colunm-middle{
+    flex: 5;
+}
+footer{
+    padding: 15px;
+    background-color: #a43f3f;
+    margin-bottom: 5px;
+}
+p{
+    margin: 0;
+}
+.banner{
+    padding: 15px;
+    background-color: aqua;
+    margin-bottom: 5px;
+    
+}
+aside{
+    position: sticky;
+    top: 20px;
+}

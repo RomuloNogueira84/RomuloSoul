@@ -1,0 +1,25 @@
+Definição e uso
+A <aside>tag define algum conteúdo além daquele em que é colocada.
+
+O conteúdo secundário deve estar indiretamente relacionado ao conteúdo
+circundante.
+
+Dica: O <aside>conteúdo geralmente é colocado como barra lateral
+em um documento.
+
+Nota: O <aside>elemento não é renderizado como algo especial
+em um navegador. No entanto, você pode usar CSS para
+estilizar o <aside> elemento (veja o exemplo abaixo).
+Suporte ao navegador
+Os números na tabela especificam a primeira versão do navegador
+que oferece suporte total ao elemento.
+Element					
+<aside>	6.0	9.0	4.0	5.0	11.1
+Atributos Globais
+A <aside>tag também suporta atributos globais em HTML .
+
+Atributos do Evento
+A <aside>tag também suporta atributos de evento em HTML .
+
+
+

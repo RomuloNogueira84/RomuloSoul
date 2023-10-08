@@ -1,0 +1,13 @@
+1-Semantica:
+é usado para identificar seções logicas
+ de uma pagina.
+
+2- Cabeçalho Opcional - pode haver um 
+<h1>para descrever o titulo ou 
+tema de sessão.
+
+3- Autocontido:
+-produtos(produtos)
+
+4-Aninhamento 
+-Criar hierarquias de sessões

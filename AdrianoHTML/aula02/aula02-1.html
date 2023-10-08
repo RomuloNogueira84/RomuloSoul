@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>tabela com divs</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: aliceblue;
+        }
+        .table-container{
+            max: width 800px;
+            margin: 0 auto;
+            background-color: aliceblue;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px;
+        }
+        .header-cell{
+            font-weight: bold;
+            background-color: aliceblue;
+
+        }
+        .cell{
+            padding: 10px;
+            text-align: center;
+            border-right: 1px grey;
+            flex: 1;
+
+        }
+        .row{
+            display: flex;
+            border-bottom: 1px solid;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container">
+        <div class=" row header-row">
+            <div class="cell header-cell"> Ref da imagem
+            </div>
+            <div class="cell header-cell"> Nome item
+                
+            </div>
+            <div class="cell header-cell"> Quantidade 
+                
+            </div>
+            <div class="cell header-cell"> Preço normal 
+                
+            </div>
+            <div class="cell header-cell"> Preço promocional 
+                
+            </div>
+
+
+
+        </div>
+
+        <di class="row">
+            <div class="cell">12345</div>
+            <div class="cell">Carro</div>
+            <div class="cell">03</div>
+            <div class="cell">R$ 25.000,00</div>
+            <div class="cell">R$ 22.500</div>
+            
+            
+        </div>
+        <div class="row">
+            <div class="cell">Linha2, Col1</div>
+            <div class="cell">Linha2, Col2</div>
+            <div class="cell">Linha2, Col3</div>
+        </div>
+
+
+
+
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+1-landing page trabalha com id
+ e links descendo a pagina e 
+interligando tudo ao mesmo site
+# se refere a linkar o id
+exemplo: <a href="#inscricao"
+
+As landing pages são excelentes ferramentas para quem deseja investir
+ em ações de Marketing. Elas são páginas com conteúdo estático 
+ que possuem o objetivo de converter visitantes em leads e clientes.
+Os leads são potenciais compradores do seu produto ou serviço,
+pessoas interessadas, de alguma forma, no seu conteúdo
+ou diretamente no seu negócio. As landing pages possuem 
+layouts simples, diretos, intuitivos e facilmente acessíveis
+ por quaisquer dispositivos. O ideal é que elas não exijam muitos 
+ cliques do usuário e que ele consiga navegar sem entraves.
+
+ O layout
+A primeira etapa antes de pensar em criar uma landing page
+é desenhar o seu layout. No geral, as páginas deste modelo
+possuem apenas uma ou mais imagens, textos e um formulário
+para a captação dos contatos.
+background normal é mais abrangente
+backgrund color é mais para color
+
+inline-block é a junção dos comportamentos inline
+(ex.:ocupar apenas o espaço do conteúdo, não quebrar linha)
+ e block (ex.: dimensões configuráveis) em um único elemento HTML
+float faz com que o elemento flutue na direção especificada
+acima dos outros elementos HTML.
+
+Eles podem ser parecidos porque o float 
+adiciona algumas características que o 
+inline-blocktambém possui, mas não todas.
+
+
+
